@@ -2,6 +2,8 @@
 
 - Firmware and bootloader for [SoundForce THT Braids](http://sound-force.nl/?page_id=3179)
 
+- simple mirror for `build` folders, you'll probably only need the binaries (.hex, .wav)
+
 - edited with def for recommended 12-bit DACs
 
 - ## *Not checked, my orders didnt arrive yet* 
