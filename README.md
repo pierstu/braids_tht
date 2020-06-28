@@ -4,7 +4,7 @@
 
 - simple mirror for `build` folders, you'll probably only need the binaries (.hex, .wav)
 
-- edited with def for recommended 12-bit DACs
+- edited and compiled for recommended 12-bit DACs
 
 - ## *Not checked, my orders didnt arrive yet* 
 
@@ -19,8 +19,8 @@
 
 # files
 
-- Each folder consist in `braids` and `braids_bootloader`
+- Each folder consist in `braids` and `braids_bootloader`subfolders, containing _all_ build files
 
-- Original Braids design and files by Emilie Gillet (emilie.o.gillet@gmail.com) in her [Eurorack GH repo](https://github.com/pichenettes/eurorack), ported in [/Braids]()
+- [/braids](https://github.com/pierstu/braids_tht/tree/master/braids) contains portage from original Braids files by Emilie Gillet (emilie.o.gillet@gmail.com) in her [Eurorack GH repo](https://github.com/pichenettes/eurorack)
 
-- Tim Churches' [Bees in the Trees](https://github.com/timchurches/Mutated-Mutables), ported in [/Bees](https://github.com/pierstu/braids_tht/tree/master/Bees)
+- [/bees](https://github.com/pierstu/braids_tht/tree/master/bees) contains portage from Tim Churches' [Bees in the Trees](https://github.com/timchurches/Mutated-Mutables)
