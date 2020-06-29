@@ -2,7 +2,7 @@
 
 - Firmware and bootloader for [SoundForce THT Braids](http://sound-force.nl/?page_id=3179)
 
-- simple mirror for `build` folders, you'll probably only need the binaries (.hex, .wav)
+- simple mirror for `eurorack/build` folders, you'll probably only need the binaries (.hex, .wav)
 
 - edited and compiled for recommended 12-bit DACs
 
@@ -24,3 +24,7 @@
 - [/braids](https://github.com/pierstu/braids_tht/tree/master/braids) contains portage from original Braids files by Emilie Gillet (emilie.o.gillet@gmail.com) in her [Eurorack GH repo](https://github.com/pichenettes/eurorack)
 
 - [/bees](https://github.com/pierstu/braids_tht/tree/master/bees) contains portage from Tim Churches' [Bees in the Trees](https://github.com/timchurches/Mutated-Mutables)
+
+
+### Best for a first flash certainly in the .hex in [`braids`](https://github.com/pierstu/braids_tht/tree/master/braids) 
+(original Mutable files 
