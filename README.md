@@ -1,10 +1,10 @@
 - Firmware and bootloader for [SoundForce THT Braids](http://sound-force.nl/?page_id=3179) with clockwise encoder rotation and updated (aug 20) encoder GPIO pinout.
 
-- ## *Not checked, my orders didnt arrive yet* 
+- ## *Not checked, my orders didnt arrive yet* - ordered 103CBs from Robotdyn, summer 20
 
-- ## if something goes wrong, let me know
+- if something goes wrong, let me know ç__update aug 20__: been told the old version (stock encoder gpio pinout) worked as of late july 20
 
-- compiled with Virtual Box 6 on Ubuntu 20.04 - see [Mutable dev env](https://github.com/pichenettes/mutable-dev-environment)
+- compiled with Virtual Box 6 on Lubuntu 20.04 - see [Mutable dev env](https://github.com/pichenettes/mutable-dev-environment)
 
 - To be flashed with an STLink V2 or clone
 
