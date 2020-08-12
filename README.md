@@ -1,18 +1,12 @@
-- Firmware and bootloader for [SoundForce THT Braids](http://sound-force.nl/?page_id=3179)
-
-- simple mirror for `eurorack/build` folders, you'll probably only need the binaries (.hex, .wav)
-
-- edited and compiled for recommended 12-bit DACs, updated and recompiled with edited encoder GPIO pins in `drivers/encoder.cc` aug 2020  
+- Firmware and bootloader for [SoundForce THT Braids](http://sound-force.nl/?page_id=3179) with clockwise encoder rotation and updated (aug 20) encoder GPIO pinout.
 
 - ## *Not checked, my orders didnt arrive yet* 
 
 - ## if something goes wrong, let me know
 
-- compiled with Virtual Box 6 on Ubuntu 20.04 
+- compiled with Virtual Box 6 on Ubuntu 20.04 - see [Mutable dev env](https://github.com/pichenettes/mutable-dev-environment)
 
 - To be flashed with an STLink V2 or clone
-
-- Built with [Mutable dev env](https://github.com/pichenettes/mutable-dev-environment)
 
 
 # files
