@@ -2,7 +2,7 @@
 
 - ## *Not checked, my orders didnt arrive yet* - ordered 103CBs from Robotdyn, summer 20
 
-- if something goes wrong, let me know ç__update aug 20__: been told the old version (stock encoder gpio pinout) worked as of late july 20
+- if something goes wrong, let me know __update aug 20__: been told the old version (stock encoder gpio pinout) worked as of late july 20
 
 - compiled with Virtual Box 6 on Lubuntu 20.04 - see [Mutable dev env](https://github.com/pichenettes/mutable-dev-environment)
 
@@ -25,5 +25,4 @@ contains portage from Tim Churches' [Bees in the Trees](https://github.com/timch
 
 contains portage from Tim Bourns' [Renaissance](https://burns.ca/eurorack.html) firmware + bootloader
 
-### Best for a first flash certainly in the .hex in [`braids-stock`](https://github.com/pierstu/braids_tht/tree/master/braids-stock-tht-build) 
-(original Mutable files 
+### Best for a first flash certainly in the .hex in [`braids-stock-tht-build`](https://github.com/pierstu/braids_tht/tree/master/braids-stock-tht-build) 
