@@ -1,6 +1,6 @@
 - Firmware and bootloader for [SoundForce THT Braids](http://sound-force.nl/?page_id=3179) with clockwise encoder rotation and updated (aug 20) encoder GPIO pinout.
 
-- ## *Not checked, my orders didnt arrive yet* - ordered 103CBs from Robotdyn, summer 20
+- ## *Not checked, <s>my orders didnt come</s> didnt finish to assemble yet* - ordered 103CBs from Robotdyn in summer 20, looks to be working with a generic Stlink v2 clone
 
 - if something goes wrong, let me know __update aug 20__: been told the old version (stock encoder gpio pinout) worked as of late july 20
 
@@ -11,7 +11,7 @@
 
 # files
 
-Each folder consist in `braids` and `braids_bootloader`subfolders, containing _all_ build files: bootloaders, hex firmwares, wav firmwares.
+Every folder consists in `/braids` and `/braids_bootloader`subfolders, containing the built files in their respective dirs, with wav and hex firmwares for each.
 
 - ### [/braids-stock-tht-build](https://github.com/pierstu/braids_tht/tree/master/braids-stock-tht-build) 
 
